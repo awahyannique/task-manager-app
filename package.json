@@ -17,7 +17,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.5.4",
     "mongoose": "^5.9.2",
-    "npm": "^6.14.1",
+    "npm": "^6.14.6",
     "save-dev": "0.0.1-security",
     "validator": "^12.2.0"
   },
