@@ -19,7 +19,7 @@
     "mongoose": "^5.9.2",
     "npm": "^6.14.1",
     "save-dev": "0.0.1-security",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "colors": "^1.4.0",
